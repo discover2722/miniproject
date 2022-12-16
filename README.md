@@ -1,5 +1,5 @@
 # miniproject
-indoor scene classification using vgg19 and CNN classifier
+**Indoor scene classification using vgg19 and CNN classifier**
 
 **ABSTRACT**
 
